@@ -1,0 +1,13 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Site settings
+title: HelloWorld
+description: >
+  Hello World by Gary Thuc Nguyen
+baseurl: "http://garythucnguyen.com/HelloWorld"
+url: "http://garythucnguyen.com/HelloWorld"
+
+sass:
+  style: compressed
